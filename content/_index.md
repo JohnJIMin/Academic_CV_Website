@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
       title: '📚 My Research'
@@ -40,6 +41,7 @@ sections:
         With a background in product development and a deep interest in real-world applications, my research aims to integrate robotics seamlessly into complex operational settings, advancing technologies that deliver both performance and adaptability. This work enables me to contribute to the practical evolution of robotics, with an eye toward creating meaningful, scalable solutions for the future.
     design:
       columns: '1'
+
   - block: collection
     id: skills
     content:
@@ -69,16 +71,16 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-    
-    - block: collection
-      id: papers
-      content:
-        title: Publications
-        filters:
-          folders:
-            - publication
-          featured_only: true
-      design:
-        view: article-grid
-        columns: 2
+
+  - block: collection
+    id: papers
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
 ---
