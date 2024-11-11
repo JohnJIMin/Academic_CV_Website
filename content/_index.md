@@ -72,14 +72,14 @@ sections:
         padding: [0, 0, 0, 0]
     
     - block: collection
-    id: papers
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+      id: papers
+      content:
+        title: Publications
+        filters:
+          folders:
+            - publication
+          featured_only: true
+      design:
+        view: article-grid
+        columns: 2
 ---
