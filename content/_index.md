@@ -30,17 +30,16 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
-    id: papers
+  - block: markdown
     content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        I am a multidisciplinary engineer, experienced in the fields of product design, mechanical engineering, robotics, and mechatronics. I am dedicated to developing systems that bridge the gap between innovative research and practical application. My work is centered on designing robotic solutions with robust mechanical, embedded, and control systems that perform reliably in real-world environments. I find purpose in pushing the boundaries of what machines can do autonomously, with a clear focus on how they impact and improve industries and day-to-day life.
+
+With a background in product development and a deep interest in real-world applications, my research aims to integrate robotics seamlessly into complex operational settings, advancing technologies that deliver both performance and adaptability. This work enables me to contribute to the practical evolution of robotics, with an eye toward creating meaningful, scalable solutions for the future.
     design:
-      view: article-grid
-      columns: 2
+      columns: '1'
   - block: collection
     id: skills
     content:
@@ -70,17 +69,16 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: markdown
+    
+    - block: collection
+    id: papers
     content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
     design:
-      columns: '1'
-
+      view: article-grid
+      columns: 2
 ---
