@@ -40,6 +40,7 @@ sections:
         With a background in product development and a deep interest in real-world applications, my research aims to integrate robotics seamlessly into complex operational settings, advancing technologies that deliver both performance and adaptability. This work enables me to contribute to the practical evolution of robotics, with an eye toward creating meaningful, scalable solutions for the future.
     design:
       columns: '1'
+
   - block: collection
     id: skills
     content:
