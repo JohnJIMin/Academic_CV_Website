@@ -36,8 +36,9 @@ sections:
       subtitle: ''
       text: |-
         I am a multidisciplinary engineer, experienced in the fields of product design, mechanical engineering, robotics, and mechatronics. I am dedicated to developing systems that bridge the gap between innovative research and practical application. My work is centered on designing robotic solutions with robust mechanical, embedded, and control systems that perform reliably in real-world environments. I find purpose in pushing the boundaries of what machines can do autonomously, with a clear focus on how they impact and improve industries and day-to-day life.
-
-          With a background in product development and a deep interest in real-world applications, my research aims to integrate robotics seamlessly into complex operational settings, advancing technologies that deliver both performance and adaptability. This work enables me to contribute to the practical evolution of robotics, with an eye toward creating meaningful, scalable solutions for the future.
+    
+        With a background in product development and a deep interest in real-world applications, my research aims to integrate robotics seamlessly into complex operational settings, advancing technologies that deliver both performance and adaptability. This work enables me to contribute to the practical evolution of robotics, with an eye toward creating meaningful, scalable solutions for the future.
+    
     design:
       columns: '1'
 
