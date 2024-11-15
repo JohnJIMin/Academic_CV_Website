@@ -41,7 +41,7 @@ profiles:
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/0009-0005-9194-5986
-  - # icon: 
+  - # icon: brands/researchgate
     url: https://www.researchgate.net/profile/Junil-Min
 
 interests:
