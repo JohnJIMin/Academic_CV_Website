@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junil (John) Mini
+title: Junil (John) Min
 
 # Name pronunciation (optional)
 # name_pronunciation: 
@@ -41,7 +41,7 @@ profiles:
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/0009-0005-9194-5986
-  - icon: assets/media/icons/ResearchGate.svg
+  - icon: icons/ResearchGate
     url: https://www.researchgate.net/profile/Junil-Min
 
 interests:
