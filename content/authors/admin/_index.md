@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junil (John) Min
+title: Junil (John) Mini
 
 # Name pronunciation (optional)
 # name_pronunciation: 
