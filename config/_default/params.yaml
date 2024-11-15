@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. Junil (John) Min'
+    notice: '© {year} Junil (John) Min | All Rights Reserved'
     license:
       enable: true
       allow_derivatives: false
